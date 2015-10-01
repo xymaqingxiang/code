@@ -1,2 +1,2 @@
-learn git 
-KeywordAlarm storm
+learn git :
+KywordAlarm on storm
